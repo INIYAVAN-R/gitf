@@ -1,0 +1,34 @@
+Naive Bayes Classifier
+Support Vector machine
+Hyper parameter optimization
+
+Naive Bayes classifier:
+Classification technique based on Bayes Theorom considering all the fields are independent of each other.
+
+Considers a feature is unrelated to prescence of any other feature.
+
+Posterior Probability?
+Likelihood?
+Class Prior probability?
+predictor prior probability?
+
+Kernels
+*Linear
+*Polynomial
+*Radial Basis Function
+
+What is C value?
+
+Gamma parameter.
+
+Bias,Variance.
+
+Hyper parameter Search.
+* Random Search
+* Grid Search
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+What is Regression?
+
+Correlation vs Regression?
+
+Normalization and Standardization?
+
+Logisitc Regression.
+
+Polynomial Regression.
+
+Decision Tree.
+Root node,branch node,leaf node.
+True=>Left Side,False=>Right Side
+
+Dimensionality Reduction?
+Factor Analysis.
+
+Multicollinearity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Regression cant be applied when there is multicollinearity.
+Solution perform factor analysis and get r square value.
+
+Principal Component Analysis.
+Eigen Decomposition
+
+
+Linear Discriminant Analysis.
+
+
+
+
